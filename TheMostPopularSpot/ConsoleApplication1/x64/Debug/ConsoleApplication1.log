@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\study\ispring\combinators\TheMostPopularSpot\ConsoleApplication1\ConsoleApplication1.cpp(24,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\study\ispring\combinators\TheMostPopularSpot\x64\Debug\ConsoleApplication1.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
